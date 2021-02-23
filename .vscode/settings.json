@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "jupyter.jupyterServerType": "remote",
+    "python.pythonPath": "C:\\Anaconda\\python.exe",
+    "editor.fastScrollSensitivity": 0.4
+}
